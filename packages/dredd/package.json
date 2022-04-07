@@ -33,7 +33,7 @@
     "README.md"
   ],
   "dependencies": {
-    "async": "3.2.0",
+    "async": "3.2.2",
     "caseless": "0.12.0",
     "chai": "4.2.0",
     "clone": "2.1.2",
@@ -55,7 +55,7 @@
     "untildify": "4.0.0",
     "uuid": "7.0.3",
     "which": "2.0.2",
-    "winston": "2.4.0"
+    "winston": "3.3.0"
   },
   "devDependencies": {
     "@types/chai": "4.2.11",
